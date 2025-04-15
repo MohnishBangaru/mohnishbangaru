@@ -1,8 +1,8 @@
 {
-  "homepage": "https://MohnishBangaru/github.io/mohnishbangaru",
   "name": "mohnishbangaru",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://MohnishBangaru/github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
